@@ -15,9 +15,9 @@
 # 所在城市
 "city": "成都",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "可乐", "birthday": "r2023-07-20"},
+"birthday1": {"name": "我", "birthday": "r1999-09-11"},
 # 生日2
-"birthday2": {"name": "圆规", "birthday": "2003-08-18"},
+"birthday2": {"name": "妹", "birthday": "r2003-05-04"},
 # 在一起的日子，格式同上
 "love_date": "2023-01-01"
 }
